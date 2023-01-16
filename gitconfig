@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rodolpheterlinden@gmail.com
+	name = Rodolphe Terlinden
